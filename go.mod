@@ -4,6 +4,8 @@ go 1.24.4
 
 require github.com/gin-gonic/gin v1.10.1
 
+require github.com/joho/godotenv v1.5.1 // indirect
+
 require (
 	github.com/bytedance/sonic v1.13.3 // indirect
 	github.com/bytedance/sonic/loader v0.3.0 // indirect
